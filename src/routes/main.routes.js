@@ -14,5 +14,5 @@ routes
   .use("/orders", orderRoutes)
   .use("/order-items", orderItemRoutes)
   .use("/contract-types", contractTypeRoutes)
-  .use("/contracts")
-  .use("/payments")
+  // .use("/contracts")
+  // .use("/payments")
